@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    background: #3376f3ec;
+    box-shadow: 1px 2px 1px rgba(0, 0, 0, .5);
+    padding: 15px;
+}
+h1{
+    display: inline-block;
+    margin-right: 60px;
+    color: white;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+}
+li:hover{
+    background-color: rgb(212, 71, 255);
+
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.contenedor{
+    width: 85%;
+    margin: auto;
+    margin-top: 100px;
+}
+p{
+    padding: 15px;
+
+}
